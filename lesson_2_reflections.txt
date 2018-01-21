@@ -18,3 +18,7 @@ it helps because I can visualize one commit after another with their branches as
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 So can incorporate new code from others as they may work in other features and solutions for our appliocation. as a result we get one commit having the code from both branches. we represent it so we can see from where the code came and to get the idea of what kind of code to expect in the merged version.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+one of the pros of Git's Automatic merge is time saving since it does it for you, but it may carry errors or code that we don't necessarily like to keep or need even worst that would cause for our application to break.
+
