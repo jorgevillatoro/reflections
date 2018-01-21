@@ -15,3 +15,6 @@ they help because they create a different logical extension of our code perhaps 
 
 How do the diagrams help you visualize the branch structure?
 it helps because I can visualize one commit after another with their branches as well, knowing graphically which commit is next.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+So can incorporate new code from others as they may work in other features and solutions for our appliocation. as a result we get one commit having the code from both branches. we represent it so we can see from where the code came and to get the idea of what kind of code to expect in the merged version.
