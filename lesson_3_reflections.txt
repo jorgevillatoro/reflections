@@ -12,3 +12,6 @@ Branches are made from a clone to create a seperate version of an existing code 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows for easy management of our copy online since we can remember the state our online state is. we can work locally and modify the content accordingly to the last current state of our files.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+when it comes to collaboration I would say there wasn't a better approach, my initial thinking leads to believe that managed servers with manually made backup of files would a way to go without git or github and that would be hard but it would be a way to collaborate. Git and Github made things easier at the need of collaboration it gives more control, separete access to the same code without breaking no ones elses code.
