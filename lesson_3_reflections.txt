@@ -15,3 +15,6 @@ It allows for easy management of our copy online since we can remember the state
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 when it comes to collaboration I would say there wasn't a better approach, my initial thinking leads to believe that managed servers with manually made backup of files would a way to go without git or github and that would be hard but it would be a way to collaborate. Git and Github made things easier at the need of collaboration it gives more control, separete access to the same code without breaking no ones elses code.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I beleive a good time to do so es when developing a new radical change something that will take our code somewhat different that in the path that we had been. once we have this new branch we don't have to worry a bit about how much we change things or the end result my break other things.
